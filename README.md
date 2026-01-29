@@ -40,7 +40,7 @@ Strong understanding of RTL design fundamentals
 Clear distinction between combinational and sequential logic
 Hands-on experience with hierarchical digital design
 Readiness for FPGA and ASIC-oriented coursework and projects
-📈 Future Scope
+- Future Scope :
 Parameterized designs (N-bit adders, multiplexers)
 FSM-based controllers
 ALU design
