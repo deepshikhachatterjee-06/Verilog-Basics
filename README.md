@@ -35,7 +35,7 @@ Each module is verified using simple Verilog testbenches to validate functional 
 - Tools Used :
 Verilog HDL
 Xilinx Vivado (Simulation & Synthesis)
-Learning Outcomes
+- Learning Outcomes :
 Strong understanding of RTL design fundamentals
 Clear distinction between combinational and sequential logic
 Hands-on experience with hierarchical digital design
